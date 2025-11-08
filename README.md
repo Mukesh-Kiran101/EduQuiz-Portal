@@ -23,7 +23,7 @@ It supports **mock quizzes, main quizzes, leaderboards, and student/teacher mana
 ├── Question.py # Question bank handling
 └── README.md # This file
 
-**Author**
+**Programmer**
 👨‍💻 Created by Mukesh
 20-September-2025
 
